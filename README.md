@@ -1,7 +1,8 @@
-# Hi there, I'm Yassine 👋
+# 🇺🇸 Hi there, I'm Yassine 👋 
+# 🇫🇷 Salut, je suis Yassine 👋
 
-I'm a Computer Engineering student with a passion for coding and problem-solving.
-
+🇺🇸 I'm a Computer Engineering student with a passion for coding and problem-solving.
+🇫🇷 Je suis un étudiant en ingénierie informatique avec une passion pour la programmation et la résolution de problèmes.
 ## 🛠️ Technologies & Tools
 
 ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=Java)
@@ -18,8 +19,8 @@ I'm a Computer Engineering student with a passion for coding and problem-solving
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white)
 
-> These are some of the technologies and tools that I work with.
-
+> 🇺🇸 These are some of the technologies and tools that I work with.
+> 🇫🇷 Voici quelques-unes des technologies et des outils avec lesquels je travaille.
 ## 📈 GitHub Stats
 
 ![Yass89's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yass89&show_icons=true&count_private=true&theme=radical)
