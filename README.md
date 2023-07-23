@@ -1,4 +1,4 @@
-:us: # Hi there, I'm Yassine 👋 
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 # Hi there, I'm Yassine 👋 
 # 🇫🇷 Salut, je suis Yassine 👋
 
 🇺🇸 I'm a Computer Engineering student with a passion for coding and problem-solving.
