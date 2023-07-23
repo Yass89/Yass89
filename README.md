@@ -14,7 +14,7 @@ I'm a Computer Engineering student with a passion for coding and problem-solving
 
 ## 📈 GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=[nom_utilisateur]&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yass89&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[nom_utilisateur]&layout=compact&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yass89&layout=compact&theme=radical" />
 
