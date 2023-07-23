@@ -28,6 +28,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yass89&layout=compact&count_private=true&theme=radical)
 
+## ⏱ Coding Time
+
+[![Yass89's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Yass89&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
