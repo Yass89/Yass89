@@ -32,6 +32,10 @@
 
 [![Yass89's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Yass89&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+## 👀 Profile Views 
+
+![](https://komarev.com/ghpvc/?username=Yass89&color=blueviolet)
+
 
 
 
