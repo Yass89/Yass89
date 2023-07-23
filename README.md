@@ -28,13 +28,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yass89&layout=compact&count_private=true&theme=radical)
 
-## ⏱ Coding Time
+## 📈 Contribution Graph
 
-[![Yass89's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Yass89&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Yass89&bg_color=1A1B27&color=E5289E&line=DA5B0B&point=E1E8EB&hide_border=true)
 
-## 👀 Profile Views 
 
-![](https://komarev.com/ghpvc/?username=Yass89&color=blueviolet)
 
 
 
