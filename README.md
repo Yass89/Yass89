@@ -14,9 +14,11 @@ I'm a Computer Engineering student with a passion for coding and problem-solving
 
 ## 📈 GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yass89&show_icons=true&count_private=true&theme=radical" alt="Yass89's GitHub Stats" />
+![Yass89's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yass89&show_icons=true&count_private=true&theme=radical)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yass89&layout=compact&count_private=true&theme=radical" />
+## 📊 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yass89&layout=compact&count_private=true&theme=radical)
 
 
 
