@@ -28,9 +28,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yass89&layout=compact&count_private=true&theme=radical)
 
-## 📈 Contribution Graph
+## 🔥 Streak Stats
 
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Yass89&bg_color=1A1B27&color=E5289E&line=DA5B0B&point=E1E8EB&hide_border=true)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Yass89&theme=radical) 
 
 
 
