@@ -1,5 +1,5 @@
-# Hi there, I'm Yassine 👋 
-# 🇫🇷 Salut, je suis Yassine 👋 :france
+# Hi there, I'm Yassine 👋 🇫🇷
+# 🇫🇷 Salut, je suis Yassine 👋 🇫🇷
 
 🇺🇸 I'm a Computer Engineering student with a passion for coding and problem-solving.
 🇫🇷 Je suis un étudiant en ingénierie informatique avec une passion pour la programmation et la résolution de problèmes.
