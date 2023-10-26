@@ -1,5 +1,7 @@
 # Hi there, I'm Yassine 👋 
 
+![Profile Views](https://komarev.com/ghpvc/?username=Yass89&color=blue)
+
  I'm a Computer Engineering student with a passion for coding and problem-solving.
  
 ## 🛠️ Technologies & Tools
