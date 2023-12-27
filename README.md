@@ -24,9 +24,7 @@
 
 ![Yass89's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yass89&show_icons=true&count_private=true&theme=radical)
 
-## 📊 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yass89&layout=compact&count_private=true&theme=radical)
 
 
 
