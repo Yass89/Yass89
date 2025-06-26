@@ -22,7 +22,13 @@
 
 ## 📈 GitHub Stats
 
-![Yass89's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yass89&show_icons=true&count_private=true&theme=radical)
+### 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yass89&layout=compact&theme=radical)
+
+### 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yass89&theme=radical)
 
 
 
