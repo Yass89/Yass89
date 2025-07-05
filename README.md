@@ -20,12 +20,6 @@
 
 > These are some of the technologies and tools that I work with.
 
-## 📈 GitHub Stats
-
-### 📊 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yass89&layout=compact&theme=radical)
-
 
 
 
