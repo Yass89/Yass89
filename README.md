@@ -1,6 +1,6 @@
 # Hi there, I'm Yassine 👋 
 
- I'm a Computer Engineering student with a passion for coding and problem-solving.
+ I'm a Computer Engineering student with a passion for coding and problem-solving (especially AI and Security).
  
 ## 🛠️ Technologies & Tools
 
